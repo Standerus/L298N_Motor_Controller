@@ -1,7 +1,7 @@
 # Arduino Motor Control Project
 
 An Arduino-based motor control system developed as part of an elctromechanical devices and interfacing project.  
-The system uses user input to control a DC motor via a motor driver and external components.
+The system uses user input to control a DC motor via a motor driver and external components. Developed in Arduino IDE.
 
 ## Features
 
